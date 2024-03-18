@@ -116,7 +116,7 @@ body {
     border: 1px solid rgb(145, 145, 145);
     border-radius: 2px;
     outline: none;
-    background-image: url('https://fec06972-3cafa02a-8891-4daf-81c9-77e6fc310e5d.s3.timeweb.cloud/icons/search-focus.svg');
+    background-image: url('cons/search-focus.svg');
     background-position: 8px 7px;
     background-repeat: no-repeat;
     background-size: 16px;
@@ -125,7 +125,7 @@ body {
 
     &:focus {
         border: 1px solid rgb(100, 100, 100);
-        background-image: url('https://fec06972-3cafa02a-8891-4daf-81c9-77e6fc310e5d.s3.timeweb.cloud/icons/search-icon.svg');
+        background-image: url('icons/search.svg');
         background-color: $headerColor;
         &::placeholder {
             opacity: 0.5;
