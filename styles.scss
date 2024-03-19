@@ -125,7 +125,6 @@ body {
 
     &:focus {
         border: 1px solid rgb(100, 100, 100);
-        background-image: url('https://nindowell.github.io/icons/search.svg');
         background-color: $headerColor;
         &::placeholder {
             opacity: 0.5;
