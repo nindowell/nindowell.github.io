@@ -112,7 +112,7 @@ body {
   border: 1px solid rgb(145, 145, 145);
   border-radius: 2px;
   outline: none;
-  background-image: url("https://nindowell.github.io/icons/search-focus.svg");
+  background-image: url("https://nindowell.github.io/icons/search.svg");
   background-position: 8px 7px;
   background-repeat: no-repeat;
   background-size: 16px;
@@ -199,7 +199,7 @@ body {
 .auth-section .auth-dropdown a:hover {
   background-color: rgb(240, 240, 240);
 }
-.auth-section .auth-triangle {
+.auth-section .triangle {
   height: 16px;
   padding: 0 10px;
   transition: 0.2s;
